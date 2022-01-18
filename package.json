@@ -1,0 +1,24 @@
+{
+  "name": "tarea3_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmorar00/Tarea3_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmorar00/Tarea3_React/issues"
+  },
+  "homepage": "https://github.com/lmorar00/Tarea3_React#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
+}
